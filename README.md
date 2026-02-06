@@ -1,20 +1,13 @@
 
-# Team Number – Project Title
+CB6 – PRIVLOGEDU: AN INNOVATIVE FRAMEWORK FOR REAL-TIME ENGAGEMENT RECOGNITION IN HYBRID CLASSROOMS USING NON-VISUAL LOG DATA WHILE MAINTAINING PRIVACY.
 
 ## Team Info
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A05I2 — **PALUTLA VENKATA NAVEEN** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
 _Work Done: xxxxxxxxxx_
 
 - 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
 _Work Done: xxxxxxxxxx_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
-
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
-
----
 
 ## Abstract
 xxxxxxxxxx
